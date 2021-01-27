@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "patchable",
+    "patchable-macros",
+    "patchable-core",
+]

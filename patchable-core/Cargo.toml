@@ -1,0 +1,12 @@
+[package]
+name = "patchable-core"
+description = "Patchable structs"
+repository = "https://github.com/EthanYidong/patchable"
+documentation = "https://github.com/EthanYidong/patchable"
+homepage = "https://github.com/EthanYidong/patchable"
+version = "0.1.0"
+authors = ["EthanYidong <ethanyidong@gmail.com>"]
+edition = "2018"
+license = "MIT"
+
+[dependencies]
